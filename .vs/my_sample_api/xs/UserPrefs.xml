@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{9C4A55A0-8C40-487D-97F7-C259F04F06D4}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="my_sample_api/Controllers/EmployeesController.cs">
+    <Files>
+      <File FileName="my_sample_api/Program.cs" Line="1" Column="1" />
+      <File FileName="my_sample_api/WeatherForecast.cs" Line="5" Column="26" />
+      <File FileName="my_sample_api/Controllers/WeatherForecastController.cs" Line="7" Column="56" />
+      <File FileName="my_sample_api/Controllers/UsersController.cs" Line="12" Column="50" />
+      <File FileName="my_sample_api/Models/UserModel.cs" Line="9" Column="18" />
+      <File FileName="my_sample_api/Controllers/EmployeesController.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="my_sample_api" expanded="True">
+            <Node name="my_sample_api" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="EmployeesController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects" />
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.my__sample__api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.my__ef__data PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
